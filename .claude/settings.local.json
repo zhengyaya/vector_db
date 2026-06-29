@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python test_bot.py)",
+      "Bash(python \"D:/Python/vector_db/test_bot.py\")",
+      "Bash(python \"D:/Python/vector_db/test_simple.py\")"
+    ]
+  }
+}
