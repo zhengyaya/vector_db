@@ -47,3 +47,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Personal Config (包含敏感API Key)
+rag_config.py
