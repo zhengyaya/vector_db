@@ -50,3 +50,4 @@ Thumbs.db
 
 # Personal Config (包含敏感API Key)
 rag_config.py
+opengauss/og_config.py
